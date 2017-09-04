@@ -1,0 +1,6 @@
+#Wildan_Fahmi
+
+Pada minggu 1, kita diberi tugas untuk belajar bagaimana cara
+menggunakan github dan juga beberapa perintah git. kita diperintahkan
+untuk mengclone repository github kita ke server badak kemudian membuat
+folder folder serta file yang dibutuhkan untuk perkuliahan kedepannya
