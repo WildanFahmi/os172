@@ -1,0 +1,6 @@
+#Wildan_Fahmi
+Pada minggu ke 0 kita di perintahkan untuk
+membuat akun google jika belum punya
+membuat akun github dan membuat repository os172
+kemudian mengisi google form terkait akun google dan akun github
+terakhir login ke badak.cs.ui.ac.id menggunakan akun siak
