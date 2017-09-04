@@ -1,1 +1,8 @@
 #WildanFahmi
+
+Kita harus belajar Sistem Operasi karena dengan mempelajari Sistem Operasi kita dapat :
+1. Mengetahui kelemahan dan kelebihan dari suatu sistem operasi
+2. Mampu mencari alternatif untuk mengurangi kelemahan dari suatu sistem operasi
+3. Membuat terobosan baru untuk meningkatkan perkembangan dari sistem operasi sekarang ini
+4. Memahami pengguna sistem operasi dan gunanya untuk manusia
+5. Mampu mengelola dan memodifikasi suatu sistem operasi
