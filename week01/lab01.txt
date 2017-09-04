@@ -20,3 +20,4 @@ drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:46 week09
 drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:47 week10
 drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:48 xtra
 /home/fasilkom/mahasiswa/w/wildan.fahmi/os172/week01
+Today is 04 Sep 2017 at 23:31:48
