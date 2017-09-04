@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 wildan.fahmi StafCS 4096 Sep  4 23:05 .
+drwx--x--x  4 wildan.fahmi StafCS 4096 Sep  4 23:01 ..
+drwxr-xr-x  8 wildan.fahmi StafCS 4096 Sep  4 23:02 .git
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:47 key
+-rw-r--r--  1 wildan.fahmi StafCS    0 Sep  4 23:05 lab01.txt
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:47 log
+-rw-r--r--  1 wildan.fahmi StafCS    7 Sep  4 22:39 README.md
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:52 sandbox
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 23:01 week00
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:43 week01
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:43 week02
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:44 week03
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:44 week04
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:45 week05
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:45 week06
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:46 week07
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:45 week08
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:46 week09
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:47 week10
+drwxr-xr-x  2 wildan.fahmi StafCS 4096 Sep  4 22:48 xtra
+/home/fasilkom/mahasiswa/w/wildan.fahmi/os172/week01
