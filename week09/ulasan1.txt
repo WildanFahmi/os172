@@ -1,0 +1,15 @@
+Ulasan 1 : Operating System as Fast As Possible
+ Dalam tulisan ini, saya akan mengulas sebuah video berjudul "What is an Operating System as Fast As Possible" yang di upload melalui channel youtube Techquickie dan dibawakan oleh  Linus Sebastian. video tersebut diupload pada 22 Mei 2015 dan berdurasi 5:15 menit. video dapat diakses di url https://youtu.be/pVzRTmdd9j0
+
+Video ini membahas tentang Sistem Operasi pada komputer seperti bagaimana dan apa yang sebenarnya Sistem Operasi lakukan. dimulai dari saat pertama kali Sistem Operasi di jalankan, ia akan menjalankan proses proses secara bertahap untuk memulai mengakses kontrol dari perangkat keras. serangkaian proses yang dijalankan tersebut disebut Bootstrap. Setelah Bootstrap selesai dijalankan, Sistem Operasi bertanggung jawab untuk mendeteksi perangkat keras apa yang diperlukan oleh program untuk dapat berjalan.
+
+Program yang ingin digunakan oleh pengguna akan mengirimkan system call yang berisi instruksi terkait apa yang perlu dilakukan oleh perangkat keras agar program tersebut dapat berfungsi. system call yang dikirim oleh program akan diterima oleh pengolah memori milik Sistem Operasi dan akan menyimpan system call tersebut kedalam antrian memori atau Blocksize. jika program yang meminta perangkat keras melebihi kapasitas dari perangkat keras yang ada, maka akan ada program yang lebih diprioritaskan sesuai dengan keinginan pengguna. Hal itu dilihat dari program mana yang di klik oleh pengguna. Oleh karena itu, pada Sistem Operasi modern, penggunaannya dipermudah dengan adanya GUI atau Graphic User Interface.
+
+Menurut saya, video ini adalah video yang sangat bagus. Dengan penyampaian yang sederhana, video ini bisa membuat orang awam lebih paham terkait apa itu Sistem Operasi dan apa sebeneranya yang dikerjakan oleh Sistem Operasi. video ini juga dapat dibilang singkat karena langsung memberi tahu inti inti yang perlu diketahui dari Sistem Operasi.
+
+Github Account : WildanFahmi
+Url Ulasan : https://wildan-fahmi-gunawan.blogspot.co.id/2017/12/ulasan-1-operating-system-as-fast-as.html
+Url Video : https://youtu.be/pVzRTmdd9j0
+Pemetaan konten : week00
+Revisi Pertama : 2 Desember 2017
+Revisi Terakhir : 2 Desember 2017
